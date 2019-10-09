@@ -1,0 +1,16 @@
+{
+  "name": "ibm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dwight Harold",
+  "license": "ISC",
+  "dependencies": {
+    "ibm-watson": "^4.5.1",
+    "ngrok": "^3.2.5",
+    "socket.io": "^2.3.0"
+  }
+}

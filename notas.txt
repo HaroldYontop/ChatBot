@@ -1,0 +1,13 @@
+WebSockets:
+API de html5
+a travez de nuestro browser poder establecer una comunicacion bidireccional - Full duplex
+comunicacion permanente
+stream de mensajes - chorros
+contenido en tiempo real
+
+el cliente puede enviar y recibir mensajes en tiempo real
+
+
+Socket.io: libreria para manejar los websockets
+
+ver min: 21:25 https://www.youtube.com/watch?v=s9g8jYXVAl0 - instancias
