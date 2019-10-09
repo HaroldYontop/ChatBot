@@ -9,8 +9,12 @@
   "author": "Dwight Harold",
   "license": "ISC",
   "dependencies": {
+    "discord.js": "^11.5.1",
     "ibm-watson": "^4.5.1",
     "ngrok": "^3.2.5",
     "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.3"
   }
 }
